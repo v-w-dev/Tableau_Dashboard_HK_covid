@@ -12,5 +12,9 @@ https://data.gov.hk/tc-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent/reso
 
 ### Tableau Dashboard - districts/addresses analysis for covid-19 cases in HK
 ![link not valid](https://raw.githubusercontent.com/v-w-dev/Tableau_Dashboard_HK_covid/main/Dashboard(details).png)  
+
+#### selecting 觀塘 Kwun Tong
 ![link not valid](https://raw.githubusercontent.com/v-w-dev/Tableau_Dashboard_HK_covid/main/Dashboard(district_example1).png)  
+
+#### selecting 灣仔 Wan Chai
 ![link not valid](https://raw.githubusercontent.com/v-w-dev/Tableau_Dashboard_HK_covid/main/Dashboard(district_example2).png)  
